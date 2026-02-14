@@ -9,3 +9,5 @@ chromadb
 langchain-google-genai
 python-dotenv
 langchain-groq
+typesense
+langchain-huggingface
